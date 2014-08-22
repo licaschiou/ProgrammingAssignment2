@@ -1,2 +1,2 @@
-## Second programming assignment for Coursera rprog-006 R Programming
+## Second assignment for Coursera R Programming (rprog-006)
 ### Submitted by Chiu Wei Chieh
